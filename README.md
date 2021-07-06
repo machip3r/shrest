@@ -1,2 +1,4 @@
-# shrest
-Questions App about Shrek. (web/php)
+# Shrest
+Preguntas y respuestas de shrek. (web/php)
+
+Desarrollado con HTML, CSS, JS y PHP.
