@@ -1,0 +1,484 @@
+{
+    "shrest": [{
+        "q1": {
+            "movie": "Shrek 3",
+            "title": "El nombre de los hijos de Shrek y Fiona es:",
+            "answer": "Farkle, Fergus y Felicia",
+            "options": [
+                "Fernando, Fausta y Fiona",
+                "Farkle, Fergus y Felicia",
+                "Furloko, Fargas y Finlandia",
+                "Ferkle, Furgues y Filicea"
+            ],
+            "image": "../assets/img/img-questions/shreksons.png"
+        },
+
+        "q2": {
+            "movie": "Shrek 3",
+            "title": "¿De que color son los ojos de la hija de Shrek?",
+            "answer": "Azul como los de Fiona",
+            "options": [
+                "Verde como la piel de los ogros",
+                "Café como el lodo de¡ pantano de Shrek",
+                "Azul como los de Fiona",
+                "Café claro"
+            ],
+            "image": "../assets/img/img-questions/daughter-eyes.jpg"
+        },
+
+        "q3": {
+            "movie": "Shrek 3",
+            "title": "¿Quién es el rey actual de muy muy lejano?",
+            "answer": "Arturo",
+            "options": [
+                "El Príncipe Encantador",
+                "Shrek",
+                "Rumpelstiltskin",
+                "Arturo"
+            ],
+            "image": "../assets/img/img-questions/kingshrek.jpg"
+        },
+
+        "q4": {
+            "movie": "Shrek 2",
+            "title": "¿Qué frase se menciona en la tarjeta de la hada madrina de Fiona?",
+            "answer": "Felicidad al alcance de una làgrima",
+            "options": [
+                "Felicidad al alcance de una làgrima",
+                "Felicidad cuando me visites",
+                "Felicidad al alcance de tus manos",
+                "Felices por siempre"
+            ],
+            "image": "../assets/img/img-questions/pocionshrek.jpg"
+        },
+
+        "q5": {
+            "movie": "Shrek 1",
+            "title": "¿Cuál es el nombre del asistente de Lord Farquaad?",
+            "answer": "Telonio",
+            "options": [
+                "Raul",
+                "Telonio",
+                "Rogelio",
+                "Testarudo"
+            ],
+            "image": "../assets/img/img-questions/asistente.png"
+        },
+
+        "q6": {
+            "movie": "Shrek 1",
+            "title": "¿Qué princesas le muestra el espejo mágico a Lord Farquaad?",
+            "answer": "Cenicienta, Blancanieves y Fiona",
+            "options": [
+                "La Bella Durmiente, Blancanieves y Fiona",
+                "Cenicienta, Rapunzel y Fiona",
+                "Cenicienta, Blancanieves y Fiona",
+                "Sirenita, Pulgarcita y Fiona"
+            ],
+            "image": "../assets/img/img-questions/princesasshrek.jpg"
+        },
+
+        "q7": {
+            "movie": "Shrek 1",
+            "title": "Cuando Shrek tiene una flecha en el trasero, Fiona manda a Burro a traer una planta, ¿Cómo era?",
+            "answer": "Flor azul con espinas rojas",
+            "options": [
+                "Flor verde con espinas cafés",
+                "Flor rosa con hojas verdes",
+                "Flor naranja con espinas blancas",
+                "Flor azul con espinas rojas"
+            ],
+            "image": "../assets/img/img-questions/florshrek.png"
+        },
+
+        "q8": {
+            "movie": "Shrek 1",
+            "title": "¿De qué hace sus velas Shrek?",
+            "answer": "Cera del oído",
+            "options": [
+                "Cera del oído",
+                "Lodo",
+                "Carne Humana",
+                "Madera"
+            ],
+            "image": "../assets/img/img-questions/velashrek.jpeg"
+        },
+
+        "q9": {
+            "movie": "Shrek 1",
+            "title": "¿Por qué los campesinos querían atrapar a Shrek?",
+            "answer": "Porque querían la recompensa que ofrecía Lord Farquaad",
+            "options": [
+                "Porque lo odiaban porque se comía a los animales",
+                "Porque querían la recompensa que ofrecía Lord Farquaad",
+                "Porque les daba mucho miedo",
+                "Porque la Hada Madrina los mandó a que lo mataran"
+            ],
+            "image": "../assets/img/img-questions/campesinoshrek.png"
+        },
+
+        "q10": {
+            "movie": "Shrek 1",
+            "title": "¿Qué hacen los ogros con los humanos?",
+            "answer": "Comer lo gelatinoso de sus ojos con pan tostado",
+            "options": [
+                "Pisarlos y dejarlos como calcomanía",
+                "Torturarlos hasta que se mueran de hambre",
+                "Comer lo gelatinoso de sus ojos con pan tostado",
+                "Usarlos como alfombra"
+            ],
+            "image": "../assets/img/img-questions/ojosshrek.jpg"
+        },
+
+        "q11": {
+            "movie": "Shrek 1",
+            "title": "¿Cuánto dinero le dan al papá de Pinocho por llevarlo con Lord Farquaad?",
+            "answer": "5 chelines",
+            "options": [
+                "20 pesos",
+                "2 dólares",
+                "10 chelines",
+                "5 chelines"
+            ],
+            "image": "../assets/img/img-questions/pinochoentrega.jpg"
+        },
+
+        "q12": {
+            "movie": "Shrek 1",
+            "title": "¿Por qué Burro comienza a volar en la entrega de personajes de cuentos de hadas?",
+            "answer": "Porque le cae polvo de hada desde una jaula de hadas",
+            "options": [
+                "Porque le cae polvo de hada desde una jaula de hadas",
+                "Porque la Hada Madrina le dio el poder de volar",
+                "Porque Burro puede volar",
+                "Porque su dueña era una bruja"
+            ],
+            "image": "../assets/img/img-questions/burrovuela.png"
+        },
+
+        "q13": {
+            "movie": "Shrek 1",
+            "title": "¿Qué pasó cuando Burro se comió fresas podridas?",
+            "answer": "Expulsó gases hasta para inflar un zeppelin",
+            "options": [
+                "Se enfermó y se quedó en su casa por mucho tiempo",
+                "Expulsó gases hasta para inflar un zeppelin",
+                "Lloró mucho tiempo y cantaba \"Estoy solito\"",
+                "Le dolía tanto el estómago que no paraba de ir al baño"
+            ],
+            "image": "../assets/img/img-questions/burrofresas.png"
+        },
+
+        "q14": {
+            "movie": "Shrek 1",
+            "title": "¿Qué es lo que más le gusta a Burro de Shrek?",
+            "answer": "Que le vale lo que los demás piensen de él",
+            "options": [
+                "El color de su piel",
+                "Que esta muy grande y puede defenderlo",
+                "Que le vale lo que los demás piensen de él",
+                "Sus buena conducta con los humanos"
+            ],
+            "image": "../assets/img/img-questions/burroshrek.jpg"
+        },
+
+        "q15": {
+            "movie": "Shrek 1",
+            "title": "¿Qué es lo que planea Burro cuando Shrek le permitió quedarse en su casa?",
+            "answer": "Desvelarse contando historias macabras de humanos",
+            "options": [
+                "Contar los chismes de los personajes de cuentos de hadas",
+                "Bailar toda la noche",
+                "Desvelarse comiendo toda la comida de Shrek",
+                "Desvelarse contando historias macabras de humanos"
+            ],
+            "image": "../assets/img/img-questions/burrotamales.jpg"
+        },
+
+        "q16": {
+            "movie": "Shrek 1",
+            "title": "¿A dónde llevaron a todas los personajes de cuentos de hadas los caballeros de Lord Farquaad?",
+            "answer": "Al pantano de Shrek",
+            "options": [
+                "Al pantano de Shrek",
+                "A un reclusorio para personajes de cuentos de hadas",
+                "A la casa de Pinocho",
+                "Al castillo del dragón"
+            ],
+            "image": "../assets/img/img-questions/ubicacionshrek.jpg"
+        },
+
+        "q17": {
+            "movie": "Shrek 1",
+            "title": "¿Cómo le dice Shrek a Blancanieves?",
+            "answer": "La vieja muerta",
+            "options": [
+                "Blanca",
+                "La vieja muerta",
+                "Chaparra",
+                "La vieja loca"
+            ],
+            "image": "../assets/img/img-questions/blancanievesshrek.jpg"
+        },
+
+        "q18": {
+            "movie": "Shrek 1",
+            "title": "¿Cuál es el propósito de la captura de personajes de cuentos de hadas que hizo Lord Farquaad?",
+            "answer": "Encontrar al espejo mágico",
+            "options": [
+                "Eliminar a los personajes de cuentos de hadas",
+                "Dar dinero a los más necesitados",
+                "Encontrar al espejo mágico",
+                "Mover a los personajes de cuentos de hadas a un lugar mejor"
+            ],
+            "image": "../assets/img/img-questions/recompensahadas.jpeg"
+        },
+
+        "q19": {
+            "movie": "Shrek 1",
+            "title": "¿Qué necesita Farquaad para ser rey de Duloc?",
+            "answer": "Casarse con una princesa",
+            "options": [
+                "Comprar un caballo",
+                "Ser más alto",
+                "Comprar unos lentes como Edna Moda",
+                "Casarse con una princesa"
+            ],
+            "image": "../assets/img/img-questions/farquaadshrek.jpg"
+        },
+
+        "q20": {
+            "movie": "Shrek 1",
+            "title": "Según el espejo mágico, ¿qué es lo que le gusta a Fiona?",
+            "answer": "Las piñas coladas y mojarse en la lluvia",
+            "options": [
+                "Las piñas coladas y mojarse en la lluvia",
+                "El Príncipe Encantador",
+                "Hacer explotar aves",
+                "Jugar con la bestia escupe fuego"
+            ],
+            "image": "../assets/img/img-questions/fionagusto.png"
+        },
+
+        "q21": {
+            "movie": "Shrek 1",
+            "title": "Cuando llegan a Duloc, ¿qué le dice Shrek a Burro para que dejara de tararear?",
+            "answer": "Te estás ganando una patada en las pompis",
+            "options": [
+                "¿No te cansas de hablar?",
+                "Te estás ganando una patada en las pompis",
+                "Hay buenas razones por las que los burros no hablan",
+                "¡Burro!"
+            ],
+            "image": "../assets/img/img-questions/dulocshrek.jpg"
+        },
+
+        "q22": {
+            "movie": "Shrek 1",
+            "title": "¿Cuándo da clases Shrek?",
+            "answer": "Los jueves",
+            "options": [
+                "Los martes",
+                "Los jueves",
+                "Los miércoles",
+                "Los viernes"
+            ],
+            "image": "../assets/img/img-questions/classshrek.jpg"
+        },
+
+        "q23": {
+            "movie": "Shrek 1",
+            "title": "Cuando Shrek le explica a Burro que las cebollas son como los ogros, ¿cómo le dice Shrek a Burro cuando lo enfada?",
+            "answer": "¡Ya cállate irritante minibestia de carga!",
+            "options": [
+                "Hay buenas razones por las que los burros no hablan",
+                "¡Ya cállate irritante minibestia de carga!",
+                "Que molesto eres",
+                "¡Burro!"
+            ],
+            "image": "../assets/img/img-questions/onionshrek.jpg"
+        },
+
+        "q24": {
+            "movie": "Shrek 1",
+            "title": "Cuando llegan al castillo donde se encuentra Fiona, ¿a qué huele?",
+            "answer": "A azufre",
+            "options": [
+                "A baños públicos",
+                "A cebollas",
+                "A azufre",
+                "A gas o flatulencia"
+            ],
+            "image": "../assets/img/img-questions/castleshrek.jpg"
+        },
+
+        "q25": {
+            "movie": "Shrek 1",
+            "title": "¿Qué hace Burro para conquistar a la dragona?",
+            "answer": "Habla de su bella sonrisa y la halaga",
+            "options": [
+                "Habla del parecido de las cebollas y los ogros",
+                "Habla de dinero",
+                "Habla del cuchitril de Shrek",
+                "Habla de su bella sonrisa y la halaga"
+            ],
+            "image": "../assets/img/img-questions/burrodragon.jpg"
+        },
+
+        "q26": {
+            "movie": "Shrek 1",
+            "title": "¿Por qué el papá oso y el oso pequeño están llorando en el pantano de Shrek?",
+            "answer": "Porque Lord Farquaad hizo alfombra a la mamá oso",
+            "options": [
+                "Porque Lord Farquaad hizo alfombra a la mamá oso",
+                "Porque Shrek les gritó",
+                "Porque no quieren estar ahí",
+                "Porque está lloviendo"
+            ],
+            "image": "../assets/img/img-questions/bearshrek.jpg"
+        },
+
+        "q27": {
+            "movie": "Shrek 1",
+            "title": "¿Qué defecto en la vista tiene Burro?",
+            "answer": "Daltonismo",
+            "options": [
+                "Es ciego",
+                "Daltonismo",
+                "Tiene un tic",
+                "Miopía"
+            ],
+            "image": "../assets/img/img-questions/burrovista.jpg"
+        },
+
+        "q28": {
+            "movie": "Shrek 1",
+            "title": "¿Qué comida le hace Shrek a Fiona en el campo?",
+            "answer": "Rata de campo rostizada",
+            "options": [
+                "Serpiente con limón",
+                "Sapo a la michoacana",
+                "Rata de campo rostizada",
+                "Caldo de cucaracha con especias"
+            ],
+            "image": "../assets/img/img-questions/comidashrek.jpg"
+        },
+
+        "q29": {
+            "movie": "Shrek 2",
+            "title": "¿Qué libro estaba \"leyendo\" el lobo de los 3 cerditos cuando el Príncipe Encantador fue a buscar a Fiona?",
+            "answer": "Un libro de puercos en bikini",
+            "options": [
+                "Un libro para adultos",
+                "Un cómic de los vengadores",
+                "Una revista para mujeres",
+                "Un libro de puercos en bikini"
+            ],
+            "image": "../assets/img/img-questions/loboshrek.jpg"
+        },
+
+        "q30": {
+            "movie": "Shrek 2",
+            "title": "¿Quién es chingüengüenchon?",
+            "answer": "El pez que Burro le dio a Shrek",
+            "options": [
+                "El pez que Burro le dio a Shrek",
+                "Pinocho cuando se pone tangas",
+                "El perrito de Fiona",
+                "Es el sobrenombre que Fiona le puso a Shrek"
+            ],
+            "image": "../assets/img/img-questions/ching.jpg"
+        },
+
+        "q31": {
+            "movie": "Shrek 2",
+            "title": "¿Cómo se llama el trompetista del elenco del lago de los cisnes que extendió la canción?",
+            "answer": "Rogelio",
+            "options": [
+                "Rodolfo",
+                "Rogelio",
+                "Raul",
+                "Ramón"
+            ],
+            "image": "../assets/img/img-questions/trumpet.jpg"
+        },
+
+        "q32": {
+            "movie": "Shrek 2",
+            "title": "¿A cuántos kilometros de distancia está Muy Muy Lejano al pantano de Shrek?",
+            "answer": "A 1,127 km (700 millas)",
+            "options": [
+                "A 1,059 km (658 millas)",
+                "A 167 km (104 millas)",
+                "A 1,127 km (700 millas)",
+                "A 2,458 km (1527 millas)"
+            ],
+            "image": "../assets/img/img-questions/ffa.jpg"
+        },
+
+        "q33": {
+            "movie": "Shrek 2",
+            "title": "¿Cómo se llama el programa donde transmitieron el baile de Shrek y Fiona?",
+            "answer": "EM (Entretenimiento Medieval)",
+            "options": [
+                "EN (Entretenimiento Nutricional)",
+                "NMML (Noticias Muy Muy Lejano)",
+                "RN (Rumpelstiltskin Noticias)",
+                "EM (Entretenimiento Medieval)"
+            ],
+            "image": "../assets/img/img-questions/calabozoshrek.jpg"
+        },
+
+        "q34": {
+            "movie": "Shrek 2",
+            "title": "Cuando los caballeros atraparon a Shrek, Burro y al Gato, ¿qué traía el gato en un bolsillo?",
+            "answer": "Arena para gato",
+            "options": [
+                "Arena para gato",
+                "Queso",
+                "Una poción",
+                "Leche en polvo"
+            ],
+            "image": "../assets/img/img-questions/gatoshrek.jpg"
+        },
+
+        "q35": {
+            "movie": "Shrek 2",
+            "title": "¿Cómo se llama la pócima que robó Shrek para ser guapo y complacer a Fiona?",
+            "answer": "Felices por Siempre",
+            "options": [
+                "Santiamen",
+                "Felices por Siempre",
+                "Apuesto",
+                "Hechizola"
+            ],
+            "image": "../assets/img/img-questions/pocionshrek.jpg"
+        },
+
+        "q36": {
+            "movie": "Shrek 2",
+            "title": "¿Cuál es la frase que dijo jengibre cuando el hechizo de la hada madrina le da al papá de Fiona (Harold)",
+            "answer": "Se arranó",
+            "options": [
+                "Se murió",
+                "Ya valío",
+                "Se arranó",
+                "¡Maldita bruja!"
+            ],
+            "image": "../assets/img/img-questions/jengi.jpg"
+        },
+
+        "q37": {
+            "movie": "Shrek 2",
+            "title": "Cuando cantan \"La Vida Loca\", ¿qué aplasta Shrek?",
+            "answer": "Al perrito de Fiona",
+            "options": [
+                "A Burro",
+                "Al gato con botas",
+                "A jengibre",
+                "Al perrito de Fiona"
+            ],
+            "image": "../assets/img/img-questions/vidaloca.jpg"
+        }
+    }]
+}
