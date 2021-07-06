@@ -3,8 +3,8 @@
 
     require_once "Facebook/autoload.php";
     $fb = new \Facebook\Facebook([
-        'app_id' => '702193056879826',
-        'app_secret' => '95059846eb70c55645b900c99742d494',
+        'app_id' => 'gDrive',
+        'app_secret' => 'gDrive',
         'default_graph_version' => 'v3.3',
     ]);
 
